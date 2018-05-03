@@ -1,7 +1,14 @@
 ![MagicalLamp](images/banner.jpg)
-# MagicalLamp
-This repository contains all code related to Magical Lamp workshop.
-Magical Lamp is a smart lamp with ESP8866 core.
+# Magical Lamp v1.0
+Magical Lamp is a smart sleep lamp that when you go to bed, it will automatically turn on, and the color will change overnight, and it will automatically turn off when it is in the morning.
+You can also control it through your smart phone with android application or web interface.
+This product is completely DIY and open source. this repository contains all code related to Magical Lamp.
+
+## DIY Feature
+Magical Lamp is made up of 5 pieces, which you will connect these parts.
+<p align="center">
+  <img src="images/DIY.jpg">
+</p>
 
 Magical Lamp has two modes:
 - Magical mode
