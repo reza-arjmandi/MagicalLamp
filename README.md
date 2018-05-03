@@ -14,5 +14,5 @@ Magical mode:
 - It turns on when it is dark.
 - The color changes smoothly to 16 million color.
 <p align="center">
-  <img width="460" height="300" src="MagicMode.jpg">
+  <img src="MagicMode.jpg">
 </p>
