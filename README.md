@@ -13,4 +13,4 @@ Remote mode has below features:
 Magical mode:
 - It turns on when it is dark.
 - The color changes smoothly to 16 million color.
-(MagicMode.jpg)
+![MagicMode](MagicMode.jpg)
