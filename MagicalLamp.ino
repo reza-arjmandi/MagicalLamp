@@ -410,15 +410,17 @@ void setup()
   }
 
   // Connect tp Wifi
-  WiFi.mode(WIFI_STA);
-  if (String(WiFi.SSID()) != String(ssid)) {
-    WiFi.begin(ssid, password);
-  }
-  
-  while (WiFi.status() != WL_CONNECTED) {
-    delay(500);
-  }
+  //WiFi.mode(WIFI_STA);
+  //if (String(WiFi.SSID()) != String(ssid)) {
+  //  WiFi.begin(ssid, password);
+  //}
 
+  //while (WiFi.status() != WL_CONNECTED) {
+  //  delay(500);
+  //}
+
+  WiFi.softAP(ssid, password);
+  
   webSocket.begin();
   webSocket.onEvent(webSocketEvent);
 
