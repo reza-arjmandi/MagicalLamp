@@ -1,3 +1,4 @@
+![MagicalLamp](images/banner.jpg)
 # MagicalLamp
 This repository contains all code related to Magical Lamp workshop.
 Magical Lamp is a smart lamp with ESP8866 core.
@@ -14,5 +15,5 @@ Magical mode:
 - It turns on when it is dark.
 - The color changes smoothly to 16 million color.
 <p align="center">
-  <img src="MagicMode.jpg">
+  <img src="images/MagicMode.jpg">
 </p>
