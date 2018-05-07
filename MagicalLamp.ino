@@ -21,8 +21,8 @@ const int BluePin = 13;
 const int DelayMs = 50;
 const int IntensityThreshold = 70;
 
-const char* ssid = "AndroidAP2";
-const char* password = "cfjr806212";
+const char* ssid = "MagicalLamp";
+const char* password = "cfjr8062";
 const char* host = "Witty";
 
 bool MagicalMode = true;

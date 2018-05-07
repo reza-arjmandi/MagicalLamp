@@ -1,5 +1,5 @@
 
-var wsUri = "ws://192.168.43.125:81/";
+var wsUri = "ws://192.168.4.1:81/";
 
 var websocket;
 var commsup = 0;

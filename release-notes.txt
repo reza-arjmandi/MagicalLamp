@@ -1,0 +1,52 @@
+@version $Id: release-notes.txt 2 2018-05-07 23:11:00
+
+========================================================================
+Magical Lamp 2.0.0 -- Cafe Technolgy
+========================================================================
+
+Magical Lamp is a smart sleep lamp that when you go to bed, it will 
+automatically turn on, and the color will change overnight, and it 
+will automatically turn off when it is in the morning. You can also 
+control it through your smart phone with android application or web 
+interface. This product is completely DIY and open sources.
+
+More information is available at https://github.com/reza-arjmandi/MagicalLamp
+
+Please refer to our issue tracker for more details on issues
+https://github.com/reza-arjmandi/MagicalLamp
+
+---------------------------------------------------------------------
+Release 2.0.0-a.0
+---------------------------------------------------------------------
+
+NEW FEATURES:
+- Implement android application which automaticaly detect Magical 
+Lamp and connect to it.
+
+
+CHANGES:
+- In previous versions Magical Lamp connect to target hotspot, but
+ in new version Magical Lamp create a wifi hotspot with specified 
+ssid and password(default ip address: 192.168.4.1)
+
+
+BUG FIXES:
+
+
+---------------------------------------------------------------------
+Release 1.0.0-a.0
+---------------------------------------------------------------------
+
+NEW FEATURES:
+- Implement two modes: 1- Magical Mode 2- Manual Mode.
+- Automatically turn on when ambient light is low(Magical Mode).
+- Automatically turn off when ambient light is high(Magical Mode).
+- Color will change very smoothly when activate magical mode.
+- Automatically connect to specified wifi hotspot.
+- Implement a web interface for changing color in manual mode.
+
+
+CHANGES:
+
+
+BUG FIXES:

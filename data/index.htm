@@ -22,23 +22,29 @@
             #MagicCheckBox {
                 position: absolute;
                 top: 175px;
-                left: 95px;
             }
             #MagicCheckLabel {
                 position: absolute;
                 top: 172px;
-                left: 125px;
             }
         </style>
 
     </head>
     <body style="font-family: HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;>
-      
-        <input id="MagicCheckBox" type="checkbox" checked onclick="MagicCheckBoxHandler(this)">
+       <div align="center">
+	   <table>
+	   <tr>
+	   <td>
+        <input id="MagicCheckBox" type="checkbox" checked onclick="MagicCheckBoxHandler(this)" >
+		</td>
+		<td>
         <label id="MagicCheckLabel">magic mode</label><br />
-
+		</td>
+		</tr>
+		</table>
+		</div>
         <!-- colorpicker element -->
-        <div>
+        <div align="center">
             <canvas id="picker" var="5" width="300" height="400"></canvas>
         </div>
         
