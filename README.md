@@ -29,13 +29,18 @@ Magical mode:
 <p align="center">
   <img src="images/MagicMode.jpg">
 </p>
+
 # New design
 The Magical Lamp design changed completely in the version 3.
+
 <p align="center">
   <img src="images/NewDesign.jpg">
 </p>
+
 The body of the new version is made of metal and has a beautiful and unique design.
+
 <p align="center">
   <img src="images/NewDesign2.jpg">
 </p>
+
 The light intensity of the new version has also increased significantly.
