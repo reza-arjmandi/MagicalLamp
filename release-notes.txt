@@ -1,7 +1,7 @@
 @version $Id: release-notes.txt 2 2018-05-07 23:11:00
 
 ========================================================================
-Magical Lamp 2.0.0 -- Cafe Technolgy
+Magical Lamp 3.0.0 -- Cafe Technolgy
 ========================================================================
 
 Magical Lamp is a smart sleep lamp that when you go to bed, it will 
@@ -16,7 +16,22 @@ Please refer to our issue tracker for more details on issues
 https://github.com/reza-arjmandi/MagicalLamp
 
 ---------------------------------------------------------------------
-Release 2.0.0-a.0
+Release 3.0.0-a0
+---------------------------------------------------------------------
+
+NEW FEATURES:
+- Light intensity increased.
+
+
+CHANGES:
+- The Magical Lamp design changed completely in the new version.
+
+
+BUG FIXES:
+
+
+---------------------------------------------------------------------
+Release 2.0.0-a0
 ---------------------------------------------------------------------
 
 NEW FEATURES:
@@ -34,7 +49,7 @@ BUG FIXES:
 
 
 ---------------------------------------------------------------------
-Release 1.0.0-a.0
+Release 1.0.0-a0
 ---------------------------------------------------------------------
 
 NEW FEATURES:

@@ -1,5 +1,5 @@
 ![MagicalLamp](images/banner.jpg)
-# Magical Lamp v2.0.0-a.0
+# Magical Lamp v3.0.0-a0
 Magical Lamp is a smart sleep lamp that when you go to bed, it will automatically turn on, and the color will change overnight, and it will automatically turn off when it is in the morning.
 You can also control it through your smart phone with android application or web interface.
 This product is completely DIY and open source.This repository contains all source code.
@@ -29,3 +29,13 @@ Magical mode:
 <p align="center">
   <img src="images/MagicMode.jpg">
 </p>
+# New design
+The Magical Lamp design changed completely in the version 3.
+<p align="center">
+  <img src="images/NewDesign.jpg">
+</p>
+The body of the new version is made of metal and has a beautiful and unique design.
+<p align="center">
+  <img src="images/NewDesign2.jpg">
+</p>
+The light intensity of the new version has also increased significantly.
